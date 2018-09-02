@@ -1,4 +1,4 @@
-Hi! This is both a text/command-line and a GUI implementation of Tetris in Java, making use of object-oriented principles!
+Hi! This is a text/command-line as well as a GUI implementation of Tetris in Java, making use of object-oriented principles!
 
 # Instructions:
   
