@@ -2,12 +2,12 @@ Hi! This is a text/command-line as well as a GUI implementation of Tetris in Jav
 
 # Instructions:
   
-## To play the GUI version: 
+## GUI: 
   Navigate to TetrisGUI and download Tetris.jar!
   
   left: left arrow key, right: right arrow key, clockwise: Z, counter-clockwise: X 
   
- ## To play the command-line version: 
+ ## Command-Line: 
    Download the ZIP file and navigate to the TetrisText directory. Run `javac -d bin src/*.java` and then `java -cp bin TetrisGameTextApplication`!
    
   left: L, right: R, down: D, clockwise: Z, counter-clockwise: X
