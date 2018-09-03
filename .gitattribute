@@ -1,2 +1,3 @@
 $ cat .gitattributes
-TetrisText/doc/* linguist-documentation
+TetrisText/doc linguist-documentation=true
+TetrisGUI/doc linguist-documentation=true
