@@ -1,0 +1,2 @@
+$ cat .gitattributes
+TetrisText/doc/* linguist-documentation
